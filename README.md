@@ -64,12 +64,12 @@
 ### 🔹 Linode Billing Platform Enhancements
 > Java | Spring Boot | Microservices | REST APIs | Docker | Kubernetes  
 
-📌 Contributed to backend services powering the Linode cloud billing platform  
-📌 Designed and enhanced RESTful APIs for billing workflows, invoices, and payment processing  
-📌 Worked with microservices architecture built using Spring Boot  
-📌 Improved system reliability and performance through optimized service logic and integrations  
-📌 Collaborated with cross-functional teams to support billing lifecycle features across the :contentReference[oaicite:0]{index=0} cloud platform  
-📌 Participated in deployment and monitoring workflows within the :contentReference[oaicite:1]{index=1} cloud ecosystem  
+📌 Contributed to backend services powering the Linode cloud billing platform 
+📌 Designed and enhanced RESTful APIs for billing workflows, invoices, and payment processing 
+📌 Worked with microservices architecture built using Spring Boot 
+📌 Improved system reliability and performance through optimized service logic and integrations 
+📌 Collaborated with cross-functional teams to support billing lifecycle features across the Linode cloud platform 
+📌 Participated in deployment and monitoring workflows within the Akamai Technologies cloud ecosystem  
 
 ### 🔹 **Hybrid Cloud Management Platform**
 > Java | Spring Boot | Docker | Kubernetes | Jenkins  
