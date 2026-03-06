@@ -63,6 +63,7 @@
 
 ### 🔹 Linode Billing Platform Enhancements
 > Java | Spring Boot | Microservices | REST APIs | Docker | Kubernetes
+
 📌 Contributed to backend services powering the Linode cloud billing platform
 📌 Designed and enhanced RESTful APIs for billing workflows, invoices, and payment processing
 📌 Worked with microservices architecture built using Spring Boot
