@@ -15,10 +15,25 @@
 🔗 [LinkedIn](https://linkedin.com/in/divyansh-dubey) • [GitHub](https://github.com/YOUR_USERNAME) • [LeetCode](https://leetcode.com/u/DiverOfficial/) • [Certifications](#)
 
 ---
+## 💼 Experience: Akamai Technologies Solutions (India) Private Limited — Software Engineer II
 
-## 💼 Experience: *Jio Platforms Ltd — Backend Developer*
+🗓️ *June 2025 – Present | 
+- Akamai Technologies Solutions (India) Private Limited
+- Augusta Building, Embassy Golf Links Business Park,
+- Bengaluru, Karnataka 560071, India
 
-🗓️ *June 2023 – Present | Navi Mumbai*  
+### Linode Billing Team
+
+- Developing and maintaining backend automation frameworks for billing systems using Java & Spring Boot
+- Building scalable API testing infrastructure using TestNG, Selenium, and REST clients
+- Automating invoice validation, billing lifecycle, and payment processing test scenarios
+- Integrating automated pipelines with Jenkins and Git-based workflows
+- Enhancing regression testing reliability and execution performance
+- Working with microservices-based cloud infrastructure supporting the Linode platform
+- Collaborating with product, QA, and platform teams to ensure billing stability and release quality
+## 💼 Experience: *Jio Platforms Ltd — Software Developer*
+
+🗓️ *June 2023 – *May2025 | Navi Mumbai*  
 - Built scalable microservices with **Spring Boot** (⏱️ response time ↓ 30%)  
 - CI/CD pipelines via **Jenkins + Bitbucket** (🚀 deployment ↑ 40%)  
 - SQL optimization (+25% DB performance)  
